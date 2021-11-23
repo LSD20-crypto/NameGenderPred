@@ -1,1 +1,1 @@
-# NameGenderPred
+# Name Gender Prediction using LSTM
